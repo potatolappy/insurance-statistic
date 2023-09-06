@@ -10,7 +10,6 @@ descriptive analysis
 - BMI mean
 - charges mean
 - female / male ratio
-- age mean across gender
 - which one is higher: medical cost for high BMI or low BMI
 - which one is higher: medical cost for smoker or non-smoker
 
