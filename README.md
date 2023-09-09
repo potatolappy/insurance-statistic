@@ -18,12 +18,11 @@ discrete analysis
 - chances of smoker given they're male
 
 continous analysis
-- chances of overweight given they're 30 years old and above
 - chances of person with BMI over 24.9 to get more than the median medical cost
 - chances of smoker to get more than the median medical cost
 
 Correlation
-- is there a correlation between smoking, BMI with medical charges
+- is there a correlation between smoking with medical charges
 
 Hypothesis
 - smoking and BMI lead to higher medical charges
