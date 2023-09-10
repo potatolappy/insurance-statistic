@@ -1,5 +1,7 @@
 # insurance-statistic
-some EDA but mainly using statistical method
+
+a simple, storytelling narrative can be found here:
+https://medium.com/@rasyidi.haris/mini-project-insurance-statistic-exploration-and-null-hypothesis-4cb626c9105b
 
 # project highlights:
 - using conditional probability
@@ -17,3 +19,4 @@ To see the analysis, please start on the:
 1. ```insurance - descriptive analysis``` containing the initial exploration of the dataset
 2. ```insurance - discrete & continous analysis``` containing analysis of conditional probability of the categorical variables (mostly BMI, medical charges and smoking)
 3. ```insurance - correlation, covariance and hypothesis testing``` containing the last leg of the analysis: measuring low / weak relationship between variables
+
